@@ -6,5 +6,6 @@ Esse projeto foi baseado em um curso da plataforma Alura.
 ````
 instalar o Node.js na máquina
 instalar o LiveServer no VsCode ou intalar o browser Sync
+Abrir no VsCode com o LiveServer o arquivo cadastro.html para o navegador exibir o documento e validar os campos do formulário.   
 
 ````
